@@ -218,7 +218,7 @@ These projects help you practice:
 
 ## 👨‍💻 Author
 
-[ShivamSingh1660](https://github.com/ShivamSingh1660)
+[Shivam Singh](https://github.com/ShivamSingh1660)
 
 ## 📄 License
 
