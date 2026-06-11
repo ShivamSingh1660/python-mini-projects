@@ -17,7 +17,7 @@ while True:
          (Ak == 'rock' and Me == 'scissors') or \
          (Ak == 'scissors' and Me == 'paper'):
 
-        print("Shivam Win")
+        print("AK Win")
         break
 
     else:
