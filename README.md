@@ -166,6 +166,22 @@ python To-Do.py
 
 ---
 
+### 9. **EMI Calculator** 💸
+A small script to calculate the Equated Monthly Installment (EMI) for a loan given the principal, annual interest rate, and tenure.
+
+**Features:**
+- Calculates EMI using principal, annual interest rate, and tenure in years
+- Displays monthly EMI and total payment
+
+**How to Run:**
+```bash
+python emi_calculator.py
+```
+
+Added: 2026-06-18
+
+---
+
 ## 🚀 Requirements
 
 - Python 3.6 or higher
@@ -181,6 +197,7 @@ pip install qrcode[pil]
 ```
 python-mini-projects/
 ├── calculator.py
+├── emi_calculator.py
 ├── GuessNumber.py
 ├── Grade.py
 ├── Password_Gent.py
